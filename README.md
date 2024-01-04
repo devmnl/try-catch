@@ -1,1 +1,1 @@
-Neste exemplo, adicionei um bloco **_try-catch_** para capturar a exceção **InputMismatchException**, que pode ocorrer se o usuário inserir algo que não seja um número **inteiro**. O bloco **finally** é usado para garantir que o scanner seja fechado, independentemente do resultado.
+Neste exemplo, adicionei um bloco **_try-catch_** para capturar a exceção **_InputMismatchException_**, que pode ocorrer se o usuário inserir algo que não seja um número **_inteiro_**. O bloco **_finally_** é usado para garantir que o scanner seja fechado, independentemente do resultado.
